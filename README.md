@@ -1,9 +1,11 @@
-![LinkedInBanner-msg](https://user-images.githubusercontent.com/5026476/109435574-b7e7f780-79e0-11eb-9cb1-17ab2c393757.png)
+![LinkedInBanner-RGR](https://user-images.githubusercontent.com/5026476/109437915-2468f380-79ed-11eb-8b85-6159cb0c10e9.png)
 
 ### Hi there 👋
 
 <!--
 **CheoR/CheoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ![LinkedInBanner-msg]
+( https://user-images.githubusercontent.com/5026476/109435574-b7e7f780-79e0-11eb-9cb1-17ab2c393757 .png)
 
 Here are some ideas to get you started:
 
