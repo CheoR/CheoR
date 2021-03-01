@@ -1,4 +1,4 @@
-![GitHubBanner-RGR](https://user-images.githubusercontent.com/5026476/109444286-85e78d00-7a02-11eb-902d-c0a08d14b587.png)
+![GitHubBanner-RGR](https://user-images.githubusercontent.com/5026476/109444808-b5e36000-7a03-11eb-9a17-ecac6fbc3c5a.png)
 
 ### Hi there 👋
 
