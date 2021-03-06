@@ -9,7 +9,7 @@
 - Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Expected graduation 06/21.
 
 # 🔭 I’m currently working on ...
-- [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack app. 
+- [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. 
 - Ideas for my front-end capstone project.
 - 
 
