@@ -10,8 +10,6 @@
 
 # 🔭 I’m currently working on ...
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. 
-- Ideas for my front-end capstone project.
-- 
 
 # 💬 Ask me about ...
 - latest projects
