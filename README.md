@@ -10,6 +10,7 @@
 
 # 🔭 I’m currently working on ...
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. 
+- [X] Present capstone 04/05/2020
 
 # 💬 Ask me about ...
 - latest projects
