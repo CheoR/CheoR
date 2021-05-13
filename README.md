@@ -6,7 +6,7 @@
 
 - Started coding because I was hit by a car.
 - Laid off 12/20, no worries.
-- Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Expected graduation 06/21.![Uploading LinkedInBanner-RGR.png…]()
+- Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Expected graduation 06/21.
 
 
 # 🔭 I’m currently working on ...
