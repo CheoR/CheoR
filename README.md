@@ -1,4 +1,4 @@
-![GitHubBanner-RGR](https://user-images.githubusercontent.com/5026476/109444808-b5e36000-7a03-11eb-9a17-ecac6fbc3c5a.png)
+![GitHubBanner-RGR](https://user-images.githubusercontent.com/5026476/118163242-6350f780-b3e7-11eb-9fac-68877b5bbce7.png)
 
 ### Hi there 🤔, it's me, Cheo.
 
@@ -6,7 +6,8 @@
 
 - Started coding because I was hit by a car.
 - Laid off 12/20, no worries.
-- Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Expected graduation 06/21.
+- Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Expected graduation 06/21.![Uploading LinkedInBanner-RGR.png…]()
+
 
 # 🔭 I’m currently working on ...
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. 
