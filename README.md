@@ -11,9 +11,12 @@
 # 🔭 I’m currently working on ...
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. 
 - [X] Present capstone 04/05/2020
+- [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
+- [ ] Thinking of what to do for backend capstone project.
 
 # 💬 Ask me about ...
 - latest projects
+- backend capstone project
 
 # ⚡ Fun fact: ...
 - Did not know I was being mugged once.
