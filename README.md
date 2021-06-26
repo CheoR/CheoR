@@ -16,7 +16,6 @@
 - [X] ~~NSS full stack demo day 06/25/2020~~
 - [X] ~~Present capstone 04/05/2020~~
 - [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
-- [X] Thinking of what to do for backend capstone project.
 
 # 💬 Ask me about ...
 - latest projects
