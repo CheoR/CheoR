@@ -3,7 +3,7 @@
 ### Hi there 🤔, it's me, Cheo.
 
 # Quick Recap 
-- NSS capstone 06/25.
+- NSS capstone and last day of class, 06/25.
 - Started coding because I was hit by a car.
 - Laid off 12/20, no worries.
 - Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Expected graduation 06/21.
@@ -13,14 +13,14 @@
 - [ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container
 - [ShipItOut - backend](https://github.com/CheoR/shipItOut-server)
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app.
-- [ ] NSS full stack demo day 06/25/2020
+- [X] ~~NSS full stack demo day 06/25/2020
 - [X] ~~Present capstone 04/05/2020~~
 - [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
 - [X] Thinking of what to do for backend capstone project.
 
 # 💬 Ask me about ...
 - latest projects
-- full stack capstone project, ShipItOut
+- full stack capstone project, live site [ShipItOut](https://shipitout.herokuapp.com/)
 
 # ⚡ Fun fact: ...
 - Did not know I was being mugged once.
