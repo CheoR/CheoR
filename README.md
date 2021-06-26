@@ -13,7 +13,7 @@
 - [ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container
 - [ShipItOut - backend](https://github.com/CheoR/shipItOut-server)
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app.
-- [X] ~~NSS full stack demo day 06/25/2020
+- [X] ~~NSS full stack demo day 06/25/2020~~
 - [X] ~~Present capstone 04/05/2020~~
 - [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
 - [X] Thinking of what to do for backend capstone project.
