@@ -12,8 +12,8 @@
 # 🔭 I’m currently working on ...
 
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. Turning app to MERN stack and styling with Material-Ui.
-- [X] ~~[ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container
-- [X] ~~[ShipItOut - backend](https://github.com/CheoR/shipItOut-server)
+- [X] ~~[ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container~~
+- [X] ~~[ShipItOut - backend](https://github.com/CheoR/shipItOut-server)~~
 - [X] ~~NSS full stack demo day 06/25/2020~~
 - [X] ~~Present capstone 04/05/2020~~
 - [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
