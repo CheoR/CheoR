@@ -2,7 +2,8 @@
 
 ### Hi there 🤔, it's me, Cheo.
 
-# Quick Recap 
+# Quick Recap
+- NSS Advanced SQL For Developers start 10/05.
 - NSS capstone and last day of class, 06/25.
 - Started coding because I was hit by a car.
 - Laid off 12/20, no worries.
