@@ -11,7 +11,7 @@
 
 
 # 🔭 I’m currently working on ...
-
+- [Creanvas](https://github.com/CheoR/creanvas), my late entry to [Mintbeat](https://mintbean.io/meets/cfa4fa54-c706-4c51-a04f-671f6686f9fd)'s hackathon.
 - [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. Turning app to MERN stack and styling with Material-Ui.
 - [X] ~~[ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container~~
 - [X] ~~[ShipItOut - backend](https://github.com/CheoR/shipItOut-server)~~
@@ -22,6 +22,7 @@
 # 💬 Ask me about ...
 - latest projects
 - full stack capstone project, live site [ShipItOut](https://shipitout.herokuapp.com/)
+- frontend capstone project, live site [PackItUp](https://cr-demo--packitup.netlify.app)
 
 # ⚡ Fun fact: ...
 - Did not know I was being mugged once.
