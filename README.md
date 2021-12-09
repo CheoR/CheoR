@@ -30,9 +30,8 @@
 # ⚡ Fun fact: ...
 - Did not know I was being mugged once.
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=cheor&color=FAC151)][1]
-![Views](https://komarev.com/ghpvc/?username=CheoR)
-![Views](https://komarev.com/ghpvc/?username=CheoR)
+
+Thank you to the ![](https://komarev.com/ghpvc/?username=CheoR) people that viewed my profile.
 <!--
 **CheoR/CheoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ![LinkedInBanner-msg]
