@@ -31,7 +31,7 @@
 - Did not know I was being mugged once.
 
 
-Thank you to the ![](https://komarev.com/ghpvc/?username=CheoR&label='') people that viewed my profile.
+Thank you to the ![](https://komarev.com/ghpvc/?username=CheoR&label=) people that viewed my profile.
 <!--
 **CheoR/CheoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ![LinkedInBanner-msg]
