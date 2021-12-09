@@ -3,11 +3,9 @@
 ### Hi there 🤔, it's me, Cheo.
 
 # Quick Recap
-- NSS Advanced SQL For Developers start 10/05.
-- NSS capstone and last day of class, 06/25.
-- Started coding because I was hit by a car.
-- Laid off 12/20, no worries.
-- Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Expected graduation 06/21.
+- ~~NSS Advanced SQL For Developers start 10/05.~~
+- ~~NSS capstone and last day of class, 06/25.~~
+- [X] Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Completed 06/21.
 
 
 # 🔭 I’m currently working on ...
@@ -24,6 +22,7 @@
 - [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
 
 # 💬 Ask me about ...
+- How I got into programming.
 - latest projects
 - full stack capstone project, live site [ShipItOut](https://shipitout.herokuapp.com/)
 - frontend capstone project, live site [PackItUp](https://cr-demo--packitup.netlify.app)
