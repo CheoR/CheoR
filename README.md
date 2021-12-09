@@ -30,6 +30,7 @@
 # ⚡ Fun fact: ...
 - Did not know I was being mugged once.
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=cheor&color=FAC151)][1]
 <!--
 **CheoR/CheoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ![LinkedInBanner-msg]
