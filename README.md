@@ -9,6 +9,7 @@
 
 
 # 🔭 I’m currently working on ...
+- ~~[X] Suvived tornado~~
 - [ ] Planning on redoing my portfolio. 
 - [ ] Learning TypeScript
   - [ ] Adding TypeScript to existing projects 
