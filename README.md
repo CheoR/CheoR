@@ -9,6 +9,7 @@
 
 
 # 🔭 I’m currently working on ...
+- [X] Relaxing for the holidays
 - [X] ~~Suvived tornado~~
 - [ ] Planning on redoing my portfolio. 
 - [ ] Learning TypeScript
