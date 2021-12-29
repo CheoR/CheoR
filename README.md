@@ -14,7 +14,7 @@
 - [ ] Planning on redoing my portfolio. 
 - [ ] Learning TypeScript
   - [ ] Adding TypeScript to existing projects 
-- [ ] Learning Gatsby
+- [ ] Learning Gatsby.
 - [ ] Learning styled-components
 - [ ] [Advent Of Code](adventofcode.com)
 - [X] ~~[Creanvas](https://github.com/CheoR/creanvas), my late entry to [Mintbeat](https://mintbean.io/meets/cfa4fa54-c706-4c51-a04f-671f6686f9fd)'s hackathon.~~
