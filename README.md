@@ -10,7 +10,7 @@
 
 # 🔭 I’m currently working on ...
 - [X] Relaxing for the holidays
-  - [ ] Visiting small-town libraries in the Nashville area.
+  - [X] ~~Visiting small-town libraries in the Nashville area.~~
 - [X] ~~Suvived tornado~~
 - [ ] Planning on redoing my portfolio. 
 - [ ] Learning TypeScript
