@@ -5,7 +5,7 @@
 # Quick Recap
 - ~~NSS Advanced SQL For Developers start 10/05.~~
 - ~~NSS capstone and last day of class, 06/25.~~
-- [X] Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21. Completed 06/21.
+- [X] ~~Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21.~~ Completed 06/21.
 
 
 # 🔭 I’m currently working on ...
