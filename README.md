@@ -28,9 +28,10 @@
 
 # 💬 Ask me about ...
 - How I got into programming.
-- latest projects
-- full stack capstone project, live site [ShipItOut](https://shipitout.herokuapp.com/)
-- frontend capstone project, live site [PackItUp](https://cr-demo--packitup.netlify.app)
+- Latest projects
+- Full stack capstone project, live site [ShipItOut](https://shipitout.herokuapp.com/)
+- Frontend capstone project, live site [PackItUp](https://cr-demo--packitup.netlify.app)
+- What's new
 
 # ⚡ Fun fact: ...
 - Did not know I was being mugged once.
