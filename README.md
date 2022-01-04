@@ -9,7 +9,7 @@
 
 
 # 🔭 I’m currently working on ...
-- [X] Relaxing for the holidays
+- [X] ~~Relaxing for the holidays~~
   - [X] ~~Visiting small-town libraries in the Nashville area.~~
 - [X] ~~Suvived tornado~~
 - [ ] Planning on redoing my portfolio
