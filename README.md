@@ -9,7 +9,7 @@
 
 
 # 🔭 I’m currently working on ...
-- [X] ~~Snow Day~~
+- [X] ~~Snow Day Buurrrr~~
 - [ ] Interviewing
 - [X] ~~Relaxing for the holidays~~
   - [X] ~~Visiting small-town libraries in the Nashville area.~~
