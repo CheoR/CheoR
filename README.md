@@ -8,7 +8,7 @@
 - [X] ~~Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21.~~ Completed 06/21.
 
 
-# 🔭 I’m currently working on .....
+# 🔭 I’m currently working on ....
 - [ ] Interviewing
 - [X] ~~Relaxing for the holidays~~
   - [X] ~~Visiting small-town libraries in the Nashville area.~~
