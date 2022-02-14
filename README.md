@@ -43,7 +43,7 @@
 - Frontend capstone project, live site [PackItUp](https://cr-demo--packitup.netlify.app)
 - What's new
 
-# ⚡ Fun fact: ...
+# ⚡ Fun fact: ....
 - Did not know I was being mugged once.
 
 
