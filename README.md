@@ -1,6 +1,11 @@
 ![GitHubBanner-RGR](https://user-images.githubusercontent.com/5026476/118163242-6350f780-b3e7-11eb-9fac-68877b5bbce7.png)
 
 ### Hi there 🤔, it's me, Cheo.
+<div align = "left">
+    <a href= "https://www.linkedin.com/in/cheo-roman/" target= "_blank" >
+        <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
 # Quick Recap
 - [ ] TA for NSS C52
