@@ -2,8 +2,18 @@
 
 ### Hi there 🤔, it's me, Cheo.
 <div align = "left">
+    <a href= "https://cheor.github.io/portfolio/" target= "_blank" >
+        <img src = "https://img.shields.io/badge/portfolio-%230077B5.svg?style=for-the-badge&logo=header&logoColor=white">
+    </a>
     <a href= "https://www.linkedin.com/in/cheo-roman/" target= "_blank" >
         <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+        <a href= "https://codepen.io/CheoR/full/QzPJbQ" target= "_blank" >
+        <img src = "https://img.shields.io/badge/codepen-%23121011.svg?style=for-the-badge&logo=codepen&logoColor=white">
+    </a>
+    </a>
+        <a href= "https://codepen.io/CheoR/full/QzPJbQ" target= "_blank" >
+        <img src = "https://img.shields.io/badge/FCC-%23121011.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
     </a>
 </div>
 
