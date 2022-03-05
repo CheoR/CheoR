@@ -13,7 +13,7 @@
     </a>
     </a>
         <a href="https://www.freecodecamp.org/cheor" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/FCC-%23121011.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
+        <img src="https://img.shields.io/badge/FCC-%23404d59.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
     </a>
 </div>
 
