@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/FCC-%23404d59.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
     </a>
     <a href="https://docs.google.com/document/d/1ewN8XsnPsNybY3WOg0Q4fAEtmH9xlSKBw3ebqS-1N4Q/export?format=pdf" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Resume-203759.svg?style=for-the-badge&logo=adobe&logoColor=white">
+        <img src="https://img.shields.io/badge/Resume-005AF0.svg?style=for-the-badge&logo=adobe&logoColor=white">
     </a>
 </div>
 
