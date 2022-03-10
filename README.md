@@ -66,7 +66,7 @@
 - [X] ~~Present capstone 04/05/2020~~
 - [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
 
-# 💬 Ask me about ...
+# 💬 Ask me about ....
 - How I got into programming.
 - Latest projects
 - Full stack capstone project, live site [ShipItOut](https://shipitout.herokuapp.com/)
