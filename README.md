@@ -27,6 +27,7 @@
 </div>
 
 # Quick Recap
+- [ ] [C52 Demo Day 03/25 @1200 CST](http://nashss.com/graduation), Note link redirects to zoom approximately 1 hour before graduation starts.
 - [ ] TA for NSS C52
 - [X] ~~NSS Advanced SQL For Developers start 10/05.~~
 - [X] ~~NSS capstone and last day of class, 06/25.~~
