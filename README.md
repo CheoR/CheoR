@@ -42,8 +42,8 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 🔭 I’m currently working on ...
-- [/] NSS Cohort 52 Python TA
-- [ ] Interviewing
+- [X] ~~NSS Cohort 52 Python TA~~
+- [X] ~~Interviewing~~
 - [X] ~~Relaxing for the holidays~~
   - [X] ~~Visiting small-town libraries in the Nashville area.~~
 - [X] ~~Suvived tornado~~
