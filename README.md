@@ -29,7 +29,7 @@
 # Quick Recap
 - [X] Accepted first developer role at [Instantteams](https://instantteams.com/) as Jr. Full Stack Developer
 - [ ] [C52 Demo Day 03/25 @0900 CST](http://nashss.com/graduation), Note link redirects to zoom approximately 1 hour before graduation starts.
-- [ ] TA for NSS C52
+- [X] ~~TA for NSS C52~~
 - [X] ~~NSS Advanced SQL For Developers start 10/05.~~
 - [X] ~~NSS capstone and last day of class, 06/25.~~
 - [X] ~~Started [Nashville Software School](http://nashvillesoftwareschool.com/) 01/21.~~ Completed 06/21.
