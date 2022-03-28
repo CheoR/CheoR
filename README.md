@@ -62,9 +62,11 @@
 - [X] ~~Suvived tornado~~
 - [X] ~~[Advent Of Code](adventofcode.com)~~
 - [X] ~~[Creanvas](https://github.com/CheoR/creanvas), my late entry to [Mintbeat](https://mintbean.io/meets/cfa4fa54-c706-4c51-a04f-671f6686f9fd)'s hackathon.~~
-- [X] [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. Turning app to MERN stack and styling with Material-Ui.
-- [X] [ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container
-- [X] [ShipItOut - backend](https://github.com/CheoR/shipItOut-server)
+- [ ] [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app.
+    - [ ] Rebuild as MERN stack app and style with Material-Ui.
+    - [ ] Rebuild as React-Native app
+- [ ] [ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container
+- [ ] [ShipItOut - backend](https://github.com/CheoR/shipItOut-server)
 - [X] ~~NSS full stack demo day 06/25/2020~~
 - [X] ~~Present capstone 04/05/2020~~
 
