@@ -42,11 +42,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 🔭 I’m currently working on ...
-- [X] ~~NSS Cohort 52 Python TA~~
-- [X] ~~Interviewing~~
-- [X] ~~Relaxing for the holidays~~
-  - [X] ~~Visiting small-town libraries in the Nashville area.~~
-- [X] ~~Suvived tornado~~
 - [ ] Planning on redoing my portfolio
   - [ ] Adding TypeScript to existing projects 
 - [ ] Familiarizing myself with
@@ -59,6 +54,11 @@
   - [/] Figma
   - [/] Design
   - [/] Python
+- [X] ~~NSS Cohort 52 Python TA~~
+- [X] ~~Interviewing~~
+- [X] ~~Relaxing for the holidays~~
+  - [X] ~~Visiting small-town libraries in the Nashville area.~~
+- [X] ~~Suvived tornado~~
 - [X] ~~[Advent Of Code](adventofcode.com)~~
 - [X] ~~[Creanvas](https://github.com/CheoR/creanvas), my late entry to [Mintbeat](https://mintbean.io/meets/cfa4fa54-c706-4c51-a04f-671f6686f9fd)'s hackathon.~~
 - [X] [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. Turning app to MERN stack and styling with Material-Ui.
