@@ -42,6 +42,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 🔭 I’m currently working on ...
+- [X] Portfolio, you can view [ here ](https://cheor.github.io/portfolio/)
 - [ ] Planning on redoing my portfolio
   - [ ] Adding TypeScript to existing projects 
 - [ ] Familiarizing myself with
@@ -62,11 +63,10 @@
 - [X] ~~[Advent Of Code](adventofcode.com)~~
 - [X] ~~[Creanvas](https://github.com/CheoR/creanvas), my late entry to [Mintbeat](https://mintbean.io/meets/cfa4fa54-c706-4c51-a04f-671f6686f9fd)'s hackathon.~~
 - [X] [PackItUp](https://github.com/CheoR/pack-it-up) - track what you pack, app. Turning app to MERN stack and styling with Material-Ui.
-- [X] ~~[ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container~~
-- [X] ~~[ShipItOut - backend](https://github.com/CheoR/shipItOut-server)~~
+- [X] [ShipItOut - frontend](https://github.com/CheoR/shipItOut-client), track your shipping container
+- [X] [ShipItOut - backend](https://github.com/CheoR/shipItOut-server)
 - [X] ~~NSS full stack demo day 06/25/2020~~
 - [X] ~~Present capstone 04/05/2020~~
-- [X] Personal Project, you can view [ here ](https://cheor.github.io/portfolio/)
 
 # 💬 Ask me about ....
 - How I got into programming.
