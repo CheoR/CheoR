@@ -46,6 +46,7 @@
 - [ ] Planning on redoing my portfolio
   - [ ] Adding TypeScript to existing projects 
 - [ ] Familiarizing myself with
+  - [/] Nextjs 
   - [/] TypeScript
   - [/] Gatsby
   - [/] graphql
