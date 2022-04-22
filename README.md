@@ -53,12 +53,13 @@
   - [/] graphql
   - [/] styled-components
   - [/] Redux
+  - [/] BullMQ
+  - [/] Jira
 - [ ] Reviewing
   - [/] Figma
   - [/] Design
   - [/] Python
   - [/] MongoDB
-  - [ ] BullMQ
 - [X] ~~NSS Cohort 52 Python TA~~
 - [X] ~~Interviewing~~
 - [X] ~~Relaxing for the holidays~~
