@@ -56,6 +56,7 @@
   - [/] BullMQ
   - [/] Jira
   - [/] Jotai
+  - [/] Atomic Design
 - [ ] Reviewing
   - [/] Figma
   - [/] Design
