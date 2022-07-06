@@ -57,6 +57,8 @@
   - [/] Jira
   - [/] Jotai
   - [/] Atomic Design
+  - [/] php
+  - [/] Laravel
 - [ ] Reviewing
   - [/] Figma
   - [/] Design
