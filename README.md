@@ -53,12 +53,10 @@
   - [/] graphql
   - [/] styled-components
   - [/] Redux
-  - [/] BullMQ
-  - [/] Jira
-  - [/] Jotai
   - [/] Atomic Design
   - [/] php
   - [/] Laravel
+  - [/] React-Native
 - [ ] Reviewing
   - [/] Figma
   - [/] Design
