@@ -27,7 +27,7 @@
 </div>
 
 # Quick Recap
-- [X] Accepted first developer role at [Instantteams](https://instantteams.com/) as Jr. Full Stack Developer
+- [X] ~~Accepted first developer role at [Instantteams](https://instantteams.com/) as Jr. Full Stack Developer
 - [X] ~~[C52 Demo Day 03/25 @0900 CST](http://nashss.com/graduation), Note link redirects to zoom approximately 1 hour before graduation starts.~~
 - [X] ~~TA for NSS C52~~
 - [X] ~~NSS Advanced SQL For Developers start 10/05.~~
@@ -54,8 +54,6 @@
   - [/] styled-components
   - [/] Redux
   - [/] Atomic Design
-  - [/] php
-  - [/] Laravel
   - [/] React-Native
 - [ ] Reviewing
   - [/] Figma
