@@ -42,9 +42,9 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 🔭 I’m currently working on .....
-- [X] ~~First day as Jr. Full Stack Developer at [Instantteams](https://instantteams.com/).
+- [X] ~~First day as Jr. Full Stack Developer at [Instantteams](https://instantteams.com/)~~
 - [X] Portfolio, you can view [ here ](https://cheor.github.io/portfolio/)
-- [ ] Planning on redoing my portfolio
+- [/] Planning on redoing my portfolio
   - [ ] Adding TypeScript to existing projects 
 - [ ] Familiarizing myself with
   - [/] Nextjs 
