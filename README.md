@@ -2,7 +2,7 @@
 
 ### Hi there 🤔, it's me, Cheo.
 <div align="left">
-    <a href="https://cheor.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <a href="https://cheor.github.io/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/portfolio-%233B4D98.svg?style=for-the-badge&logo=Jasmine&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/cheo-roman/" target="_blank" rel="noopener noreferrer">
