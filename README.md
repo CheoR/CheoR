@@ -22,7 +22,7 @@
 
 <div align="left" style="color:red;">
     <p style="color:red;">
-        I am a mixture of formal CS education, self-taught, and bootcamp training, pivoting careers from a combined decade in the transportation/logistics/shipping industries to software development as a full stack developer .  Let’s connect.
+        I am a mixture of formal CS education, self-taught, bootcamp, and professional startup experience. I pivoted ncareers from a combined decade in the transportation/logistics/shipping industries to software development as a full stack developer .  Let’s connect.
     </p>
 </div>
 
