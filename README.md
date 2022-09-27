@@ -1,4 +1,5 @@
-![GitHubBanner-RGR](https://user-images.githubusercontent.com/5026476/118163242-6350f780-b3e7-11eb-9fac-68877b5bbce7.png)
+![Banner](https://user-images.githubusercontent.com/5026476/192595864-e6853584-7b68-4c26-a1a4-ec85c1a4b2b2.png)
+
 
 ### Hi there 🤔, it's me, Cheo.
 <div align="left">
