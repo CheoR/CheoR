@@ -56,6 +56,7 @@
   - [/] Redux
   - [/] Atomic Design
   - [/] React-Native
+  - [/] Cypress
 - [ ] Reviewing
   - [/] Figma
   - [/] Design
