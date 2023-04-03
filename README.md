@@ -9,17 +9,11 @@
     <a href="https://www.linkedin.com/in/cheo-roman/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-        <a href="https://codepen.io/CheoR/full/QzPJbQ" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/codepen-%23121011.svg?style=for-the-badge&logo=codepen&logoColor=white">
-    </a>
-    </a>
-    <a href="https://www.freecodecamp.org/cheor" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/FCC-%23404d59.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
-    </a>
-    <a href="https://docs.google.com/document/d/1ewN8XsnPsNybY3WOg0Q4fAEtmH9xlSKBw3ebqS-1N4Q/export?format=pdf" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Resume-005AF0.svg?style=for-the-badge&logo=adobe&logoColor=white">
-    </a>
-</div>
+        
+   <a href="https://github.com/CheoR/CheoR/files/11141070/Cheo_Roman_Resume_.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Resume-005AF0.svg?style=for-the-badge&logo=adobe&logoColor=white">
+   </a>
+ </div>
 
 <div align="left" style="color:red;">
     <p style="color:red;">
@@ -103,5 +97,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun f[Cheo_Roman_Resume_.pdf](https://github.com/CheoR/CheoR/files/11141070/Cheo_Roman_Resume_.pdf)
+act: ...
+
+    <a href="https://codepen.io/CheoR/full/QzPJbQ" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/codepen-%23121011.svg?style=for-the-badge&logo=codepen&logoColor=white">
+    </a>
+    </a>
+     <a href="https://www.freecodecamp.org/cheor" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/FCC-%23404d59.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
+    </a>
+    <a href="https://docs.google.com/document/d/1ewN8XsnPsNybY3WOg0Q4fAEtmH9xlSKBw3ebqS-1N4Q/export?format=pdf" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Resume-005AF0.svg?style=for-the-badge&logo=adobe&logoColor=white">
+    </a>
 -->
+
+
